@@ -1,0 +1,127 @@
+.tabla_principal{
+    border: 2px solid;
+    width: 1290px;
+    height: 590px;
+    max-width: 1300px;
+    max-height: 600px;
+    background-color: rgb(252, 244, 244)
+}
+
+.tabla_encabezado{
+    border: 2px solid;
+    width: 1249px;
+    height: 99px;
+    max-width: 1250px;
+    max-height: 100px;
+    position: relative;
+    bottom: -10px;
+    background-color: beige
+}
+
+.color_hym{
+    color: rgb(226, 4, 4);
+    font-family:'Courier New', Courier, monospace
+}
+
+.imagen_hym{
+    width:1px;
+    height: 1px;
+    position: relative;
+    bottom: 102px;
+    left: 1042px;
+}
+
+.tabla_cuerpo{
+    border: 2px solid;
+    width: 250px;
+    height: 340px;
+    max-width: 260px;
+    max-height: 350px;
+    position: relative;
+    bottom: -20px;
+    left: 16px;
+    background-color: beige;
+}
+
+.tabla_botones_genero{
+    border: 2px solid;
+    width: 974px;
+    max-width: 980px;
+    height: 50px;
+    max-height: 60px;
+    position: relative;
+    left: 290px;
+    bottom: 320px;
+    background-color: beige
+}
+
+.boton_mujer{
+    border-radius: 5px;
+    width: 100px;
+}
+
+.boton_hombre{
+    border-radius: 5px;
+    width: 100px;
+}
+
+.boton_bebe{
+    border-radius: 5px;
+    width: 100px;
+}
+
+.boton_niños{
+    border-radius: 5px;
+    width: 100px;
+}
+
+.titulo_producto{
+    position: relative;
+    bottom: 330px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(226, 4, 4);
+}
+
+.imagen_camisa{
+    width:1px;
+    height: 1px;
+    position: relative;
+    bottom: 300px;
+    left: 300px;
+}
+
+.imagen_pantalon{
+    width:1px;
+    height: 1px;
+    position: relative;
+    bottom: 300px;
+    left: 550px;
+}
+
+.imagen_medias{
+    width:1px;
+    height: 1px;
+    position: relative;
+    bottom: 300px;
+    left: 800px;
+}
+
+.imagen_calzado{
+    width:1px;
+    height: 1px;
+    position: relative;
+    bottom: 300px;
+    left: 1050px;
+}
+
+.tabla_foot{
+    border: 2px solid;
+    width: 1249px;
+    max-width: 1250px;
+    height: 99px;
+    max-height: 100px;
+    bottom: 100px;
+    background-color: beige;
+    position: relative;
+    left: 16px;
+}

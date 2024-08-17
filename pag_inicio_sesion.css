@@ -1,0 +1,70 @@
+.titulo{
+    position: relative;
+    top: 250px;
+    left: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    color: rgb(187, 32, 32);
+}
+
+.imagen_logo{
+    position: relative;
+    left: 620px;
+    top: 90px;
+}
+
+.imagen_usuario{
+    position: relative;
+    left: 550px;
+    top: 223px;
+}
+
+.imagen_contraseña{
+    position: relative;
+    left: 550px;
+    top: 248px;
+}
+
+.tabla_ingresar_correo{
+    width: 200px;
+    height: 40px;
+    position: relative;
+    left: 600px;
+    bottom: 30px;
+    top: 120px;
+    background-color: rgb(231, 229, 229);
+}
+
+.tabla_ingresar_contraseña{
+    width: 200px;
+    height: 40px;
+    position: relative;
+    left: 600px;
+    bottom: 50px;
+    top: 160px;
+    background-color: rgb(231, 229, 229);
+}
+
+.text_correo{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    position: relative;
+    left: 490px;
+    top: 50px;
+    color: rgb(187, 32, 32);
+}
+
+.text_contraseña{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    position: relative;
+    left: 450px;
+    top: 100px;
+    color: rgb(187, 32, 32);
+}
+
+.boton_iniciar_sesion{
+    position:relative;
+    left: 620px;
+    top: 150px;
+}
